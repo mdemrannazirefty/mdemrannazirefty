@@ -2,9 +2,12 @@
 
 ### Hello, I'm MD. EMRAN NAZIR EFTY
 #### Beginner Programmer
+
 A curious mind, always eager to explore the world of programming. I'm currently pursuing a Computer Science & Engineering degree at American International University-Bangladesh. I'm constantly striving to improve my skills and contribute to the tech world.
 
+
 Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
+
 
 - 🔭 I’m currently working on PYTHON 
 - 🌱 I’m currently learning Full Stack Web Development 
