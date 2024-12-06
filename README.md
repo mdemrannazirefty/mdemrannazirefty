@@ -1,24 +1,33 @@
-![Beginner Programmer](https://yt3.googleusercontent.com/NdxuNqXyK_gZf_nF572rYB1c8B5xkN5ZnquU4eyAnVo6t6hwm_qkbpV75p4WohLeSMEKW--D0w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+<h1 align="center">Hello👋, I'm MD. EMRAN NAZIR EFTY</h1>
+<h3 align="center">Beginner Programmer</h3>
 
-### Hello, I'm MD. EMRAN NAZIR EFTY
-#### Beginner Programmer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdemrannazirefty&label=Profile%20views&color=0e75b6&style=flat" alt="mdemrannazirefty" /> </p>
 
-A curious mind, always eager to explore the world of programming. I'm currently pursuing a Computer Science & Engineering degree at American International University-Bangladesh. I'm constantly striving to improve my skills and contribute to the tech world.
+- 🔭 I’m currently working on **PYTHON**
 
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
+- 👯 I’m looking to collaborate on [JORASHOES-Store](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)
 
+- 👨‍💻 All of my projects are available at [https://github.com/mdemrannazirefty](https://github.com/mdemrannazirefty)
 
-- 🔭 I’m currently working on PYTHON 
-- 🌱 I’m currently learning Full Stack Web Development 
-- 📫 How to reach me: mdemrannazirefty@gmail.com 
+- 📫 How to reach me **mdemrannazirefty@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/eftymdemran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eftymdemran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdemrannazirefty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdemrannazirefty" height="30" width="40" /></a>
+<a href="https://fb.com/eftymdemran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eftymdemran" height="30" width="40" /></a>
+<a href="https://instagram.com/en_efty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="en_efty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mdemrannazirefty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdemrannazirefty" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdemrannazirefty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdemrannazirefty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/eftymdemran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/en_efty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/eftymdemran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mdemrannazirefty)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrannazirefty)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdemrannazirefty&show_icons=true&locale=en&layout=compact" alt="mdemrannazirefty" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true&locale=en" alt="mdemrannazirefty" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemrannazirefty&" alt="mdemrannazirefty" /></p>
 
