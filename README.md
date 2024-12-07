@@ -24,4 +24,13 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrannazirefty)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
 
+<h3>Sports / Hobby:</h3>
+- 🏏 Cricket, 🏸 Badminton
+- 🏊‍♂️ Swimming
+- ✈️ Travelling, 🍿Watching Movie
+
+<p>--------------------------------------------------------</p>
+Copyright © 2022 mdemrannazirefty. All Rights Reserved.
+<p>--------------------------------------------------------</p>
+
 
