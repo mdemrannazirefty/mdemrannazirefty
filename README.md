@@ -25,12 +25,14 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
 
 <h3>Sports / Hobby:</h3>
+
 - 🏏 Cricket, 🏸 Badminton
+- 
 - 🏊‍♂️ Swimming
+- 
 - ✈️ Travelling, 🍿Watching Movie
 
-<p>--------------------------------------------------------</p>
-Copyright © 2022 mdemrannazirefty. All Rights Reserved.
-<p>--------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="center"> Copyright © 2022 mdemrannazirefty. All Rights Reserved.</p>
 
 
