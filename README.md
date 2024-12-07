@@ -22,7 +22,6 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true&locale=en" alt="mdemrannazirefty" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrannazirefty)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
 
 
