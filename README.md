@@ -1,8 +1,8 @@
 
 ![Beginner Programmer](https://yt3.googleusercontent.com/NdxuNqXyK_gZf_nF572rYB1c8B5xkN5ZnquU4eyAnVo6t6hwm_qkbpV75p4WohLeSMEKW--D0w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-### Hello👋, I'm MD. EMRAN NAZIR EFTY
-#### Beginner Programmer
+<h1 align="center">Hello👋, I'm MD. EMRAN NAZIR EFTY</h1>
+<h3 align="center">Beginner Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdemrannazirefty&label=Profile%20views&color=0e75b6&style=flat" alt="mdemrannazirefty" /> </p>
 
 A curious mind, always eager to explore the world of programming. I'm currently pursuing a Computer Science & Engineering degree at American International University-Bangladesh. I'm constantly striving to improve my skills and contribute to the tech world.
@@ -24,3 +24,8 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / MYSQL
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdemrannazirefty&show_icons=true&locale=en&layout=compact" alt="mdemrannazirefty" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true&locale=en" alt="mdemrannazirefty" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemrannazirefty&" alt="mdemrannazirefty" /></p>
