@@ -33,6 +33,6 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / DJANGO /MYSQL
 - ✈️ Travelling, 🍿Watching Movie
 
 <p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<p align="center"> Copyright © 2022 mdemrannazirefty. All Rights Reserved.</p>
+<p align="center"> Copyright © 2022-2025 mdemrannazirefty. All Rights Reserved.</p>
 
 
