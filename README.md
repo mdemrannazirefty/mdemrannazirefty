@@ -27,7 +27,7 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / DJANGO /MYSQL
 
 <h3>Sports / Hobby:</h3>
 
-- 🏏 Cricket, 🏸 Badminton 
+- 🏏 Cricket, 🏸 Badminton, 🎮 Video Game
 - 🏊‍♂️ Swimming
 - ✈️ Travelling, 🍿Watching Movie
 
