@@ -10,7 +10,7 @@ A curious mind, always eager to explore the world of programming. I'm currently 
 Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / DJANGO /MYSQL
 
 - 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on [JORASHOES-Store](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)
 - 👨‍💻 All of my projects are available at [https://github.com/mdemrannazirefty](https://github.com/mdemrannazirefty)
 - 📫 How to reach me: **mdemrannazirefty@gmail.com**
