@@ -27,10 +27,10 @@ Skills: PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / DJANGO /MYSQL
 
 <h3>Sports / Hobby:</h3>
 
-- 🏏 Cricket, 🏸 Badminton, 🎮 Video Game
+- 🏏 Cricket, 🏸 Badminton
 - 🏊‍♂️ Swimming
-- ✈️ Travelling, 🍿Watching Movie
-
+- ✈️ Travelling
+- 🍿Watching Movie, 🎮 Video Game
 <p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p align="center"> Copyright © 2022-2025 mdemrannazirefty. All Rights Reserved.</p>
 
