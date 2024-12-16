@@ -1,5 +1,5 @@
 
-![Beginner Programmer](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![Beginner Programmer]([https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif](https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk))
 
 <h1 align="center">Hello👋, I'm MD. EMRAN NAZIR EFTY</h1>
 <h3 align="center">Beginner Programmer</h3>
