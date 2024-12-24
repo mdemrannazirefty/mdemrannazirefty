@@ -6,7 +6,6 @@
 <h1 align="center">Hello👋, I'm MD. EMRAN NAZIR EFTY</h1>
 <h3 align="center">Beginner Programmer</h3>
 
-
 A curious mind, always eager to explore the world of programming. I'm currently pursuing a Computer Science & Engineering degree at American International University-Bangladesh. I'm constantly striving to improve my skills and contribute to the tech world.
 
 **Skills:** PYTHON / C++ / JAVA / C# / HTML / CSS / REACTY / DJANGO /MYSQL
