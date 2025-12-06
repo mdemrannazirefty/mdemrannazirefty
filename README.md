@@ -22,7 +22,6 @@ A curious mind, always eager to explore the world of programming. I'm currently 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true&locale=en" alt="mdemrannazirefty" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrannazirefty)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdemrannazirefty)  
 
 
@@ -33,6 +32,6 @@ A curious mind, always eager to explore the world of programming. I'm currently 
 - ✈️ Travelling
 - 🍿Watching Movie, 🎮 Video Game
 <p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<p align="center"> Copyright © 2022-2025 mdemrannazirefty. All Rights Reserved.</p>
+<p align="center"> Copyright © 2022-2026 mdemrannazirefty. All Rights Reserved.</p>
 
 
