@@ -54,8 +54,8 @@ I believe strong fundamentals create strong developers.
 </p>
 
 
+
 📩 **Email:** mdemrannazirefty@gmail.com  
-🌍 **Portfolio:** https://github.com/mdemrannazirefty  
 
 ---
 
