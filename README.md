@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Graduated in **Computer Science & Engineering** from **American International University-Bangladesh (AIUB)**  
 
@@ -21,7 +21,7 @@ I believe strong fundamentals create strong developers.
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - Building and understanding **Machine Learning Algorithms**
 - Strengthening core concepts in **Python**
@@ -30,7 +30,7 @@ I believe strong fundamentals create strong developers.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,react,django,mysql" />
@@ -38,7 +38,7 @@ I believe strong fundamentals create strong developers.
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://github.com/mdemrannazirefty">
@@ -53,15 +53,14 @@ I believe strong fundamentals create strong developers.
 </p>
 
 
-
-📩 **Email:** mdemrannazirefty@gmail.com  
+**Email:** mdemrannazirefty@gmail.com  
 
 ---
 
-### 🎯Hobby
+### Hobby
 
-- ✈️ Travelling  
-- 🐎 Horse Riding 
+- Travelling  
+- Horse Riding 
 
 ---
 
