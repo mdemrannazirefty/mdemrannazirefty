@@ -72,9 +72,6 @@
 
 ### 🏏 Sports / Hobby
 
-- 🏏 Cricket  
-- 🏸 Badminton  
-- 🏊‍♂️ Swimming  
 - ✈️ Travelling  
 - 🍿 Watching Movies  
 - 🎮 Gaming  
