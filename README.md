@@ -23,8 +23,7 @@
 
 - 🤖 Working on **Machine Learning Algorithms**
 - 🐍 Deepening my knowledge in **Python**
-- 🤝 Open to collaboration on  
-  👉 **[JORASHOES-Store](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)**
+- 🤝 Open to collaboration on **[JORASHOES-Store](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)**
 
 ---
 
