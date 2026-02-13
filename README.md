@@ -1,46 +1,60 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mdemrannazirefty&label=Profile%20views&color=0e75b6&style=flat" alt="mdemrannazirefty" /> 
+</p>
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="github" height="180">
+</div>
+
+<h1 align="center">Hello 👋, I'm MD. EMRAN NAZIR EFTY</h1>
+<h3 align="center">Beginner Programmer</h3>
+
+---
+
+### 👨‍💻 About Me
+
+🎓 Computer Science & Engineering Student at **American International University-Bangladesh**  
+🚀 Curious developer exploring programming and real-world problem solving  
+💡 Passionate about building, learning, and improving every single day  
+
+---
+
+### 🔥 Current Focus
+
+- 🤖 Working on **Machine Learning Algorithms**
+- 🐍 Deepening my knowledge in **Python**
+- 🤝 Open to collaboration on  
+  👉 **[JORASHOES-Store](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)**
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdemrannazirefty&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,react,django,mysql" />
+
 </p>
 
-<h1 align="center">Hi 👋 I'm MD. Emran Nazir Efty</h1>
-<h3 align="center">Software Developer | CSE Student | Problem Solver</h3>
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mdemrannazirefty@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/mdemrannazirefty/">LinkedIn</a> •
-  <a href="https://www.youtube.com/@mdemrannazirefty">YouTube</a>
+  <a href="https://github.com/mdemrannazirefty"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35"/></a>
+  <a href="https://www.linkedin.com/in/mdemrannazirefty/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35"/></a>
+  <a href="https://www.facebook.com/eftymdemran"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="35"/></a>
+  <a href="https://www.instagram.com/en_efty/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="35"/></a>
+  <a href="https://twitter.com/eftymdemran"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35"/></a>
+  <a href="https://www.youtube.com/@mdemrannazirefty"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="35"/></a>
 </p>
+
+📩 **Email:** mdemrannazirefty@gmail.com  
+🌍 **All Projects:** https://github.com/mdemrannazirefty  
 
 ---
 
-## 🚀 About Me
-
-I’m a Computer Science & Engineering student at **American International University-Bangladesh**.
-
-I enjoy building real-world software, solving logical problems, and continuously improving my development skills. Currently focused on backend development and machine learning fundamentals.
-
-- 🔭 Working on: **Machine Learning Algorithms**
-- 🌱 Learning deeply: **Python & Backend Development**
-- 🤝 Open to collaborate on: [JORASHOES Store (Java Project)](https://github.com/mdemrannazirefty/JORASHOES-Store-With-Java.git)
-- 💼 All projects: https://github.com/mdemrannazirefty
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,csharp" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,django,mysql" />
-</p>
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdemrannazirefty&show_icons=true&theme=tokyonight" />
@@ -56,25 +70,17 @@ I enjoy building real-world software, solving logical problems, and continuously
 
 ---
 
-## 🎯 Current Goals
+### 🏏 Sports / Hobby
 
-- Build stronger problem-solving skills (DSA)
-- Develop production-level backend applications
-- Contribute to open-source projects
-- Publish more technical content
-
----
-
-## ⚽ Interests
-
-🏏 Cricket  
-🏸 Badminton  
-🏊 Swimming  
-✈️ Travelling  
-🎮 Gaming  
+- 🏏 Cricket  
+- 🏸 Badminton  
+- 🏊‍♂️ Swimming  
+- ✈️ Travelling  
+- 🍿 Watching Movies  
+- 🎮 Gaming  
 
 ---
 
 <p align="center">
-  © 2022–2026 MD. Emran Nazir Efty
+  © 2022-2026 mdemrannazirefty. All Rights Reserved.
 </p>
