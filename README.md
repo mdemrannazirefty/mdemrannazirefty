@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Graduated in **Computer Science & Engineering** from **American International University-Bangladesh (AIUB)**  
+Graduated in **Computer Science & Engineering** from **American International University-Bangladesh (AIUB)**  
 
 I build software with a strong focus on logic, structure, and clean implementation.  
 My interest in technology started with curiosity about how systems work today, which drives me to design applications, explore machine learning models, and continuously improve my problem-solving ability.
@@ -23,10 +23,10 @@ I believe strong fundamentals create strong developers.
 
 ### 🚀 Current Focus
 
-- 🤖 Building and understanding **Machine Learning Algorithms**
-- 🐍 Strengthening core concepts in **Python**
-- 💻 Practicing Data Structures & Algorithms
-- 🔍 Improving clean code and logical thinking
+- Building and understanding **Machine Learning Algorithms**
+- Strengthening core concepts in **Python**
+- Practicing Data Structures & Algorithms
+- Improving clean code and logical thinking
 
 ---
 
@@ -58,7 +58,7 @@ I believe strong fundamentals create strong developers.
 
 ---
 
-### 🏏 Sports / Hobby
+### 🎯Hobby
 
 - ✈️ Travelling  
 - 🐎 Horse Riding 
