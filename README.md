@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="[https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk](https://github.com/rudrabarad/Gifs)" alt="github" height="200">
+  <img src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="image" height="200">
 </div>
 
 <h1 align="center">MD. EMRAN NAZIR EFTY</h1>
