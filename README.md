@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">MD. EMRAN NAZIR EFTY</h1>
-<h4 align="center"> Machine Learning | Data Scirnce </h4>
+<h4 align="center"> Machine Learning | Data Science </h4>
 
 ---
 
