@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="image" height="200">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQWxwkm_yExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="coding gif" height="200">
 </div>
 
 <h1 align="center">MD. EMRAN NAZIR EFTY</h1>
